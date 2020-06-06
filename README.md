@@ -9,4 +9,5 @@
 **Setup steps:**
 1. Put the token in the data/token.txt file
 2. Install all the requirements
-3. Start launch.py
+3. Create a file called `config.py`, read config.example.py for more info
+4. Start launch.py
