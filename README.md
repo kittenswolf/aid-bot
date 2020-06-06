@@ -3,7 +3,7 @@
 **Note:**
 - The bot, in its current state, is broken.
 - I will not provide any setup assistance and I will not fix any bugs.
-- Feel free to fork this project, but make sure you follow the license (read more in LICENSE.md)
+- Feel free to fork this project, but make sure you follow the license (read more in `LICENSE`)
 
 **Setup steps:**
 1. Put the token in the data/token.txt file
